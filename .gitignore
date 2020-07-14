@@ -1,0 +1,10 @@
+*.json 
+*.html 
+*.pyc 
+*.output
+
+.idea/ 
+.DS_Store
+
+/__pycache__/ 
+/scrapy_test1_env/
